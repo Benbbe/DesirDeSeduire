@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="https://www.prestashop.com/fr/blog/feed.xml" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:og="http://ogp.me/ns#" xmlns:article="http://ogp.me/ns/article#" xmlns:book="http://ogp.me/ns/book#" xmlns:profile="http://ogp.me/ns/profile#" xmlns:video="http://ogp.me/ns/video#" xmlns:product="http://ogp.me/ns/product#" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>Blog Feed</title>
+    <link>https://www.prestashop.com/fr/blog/feed.xml</link>
+    <description></description>
+    <language>fr</language>
+     <atom:link href="https://www.prestashop.com/fr/blog/feed.xml" rel="self" type="application/rss+xml" />
+      <item>
+    <title>Participez au PrestaShop Day : 15 juin – Cité de la Mode et du Design - Paris</title>
+    <link>http://www.prestashopday.com/fr/</link>
+    <description>De la TPE à la grande enseigne, le PrestaShop Day invite tous les marchands et professionnels de l’e-commerce à augmenter le potentiel de leur business dans un esprit startup ! Avec plus de 30 ateliers et tables rondes, participez à une journée d’échanges qui place l’humain au cœur de la réussite de l’e-commerce. Le PrestaShop Day n’a lieu qu’une seule fois dans l’année, prenez vite vos billets ! www.prestashopday.com/fr/</description>
+     <pubDate>Fri, 30 May 2017 08:14:52 +0000</pubDate>
+<dc:creator>Preston&#039;s Friends</dc:creator>
+ <guid isPermaLink="false">http://www.prestashopday.com/fr/</guid>
+  </item>
+      <item>
+    <title>Quelle stratégie de prix pour mes livraisons de colis ?</title>
+    <link>https://www.prestashop.com/fr/blog/actualites-prestashop/quelle-strategie-de-prix-pour-mes-livraisons-de-colis-0</link>
+    <description>L’envoi de colis représente un enjeux majeur pour chaque site e-commerce, quelque soit sa taille.</description>
+     <pubDate>Fri, 05 May 2017 08:14:52 +0000</pubDate> 
+<dc:creator>Preston&#039;s Friends</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/fr/blog/actualites-prestashop/quelle-strategie-de-prix-pour-mes-livraisons-de-colis-0</guid>
+  </item>
+  <item>
+    <title>Vendre en ligne tout en étant solidaire, c&amp;#039;est possible !</title>
+    <link>https://www.prestashop.com/fr/blog/conseils-e-commerce/vendre-en-ligne-tout-en-etant-solidaire-cest-possible</link>
+    <description>VENDRE EN LIGNE TOUT EN ÉTANT SOLIDAIRE, C’EST POSSIBLE !
+ </description>
+     <pubDate>Fri, 05 May 2017 08:14:52 +0000</pubDate> 
+<dc:creator>Preston&#039;s Friends</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/fr/blog/conseils-e-commerce/vendre-en-ligne-tout-en-etant-solidaire-cest-possible</guid>
+  </item>
+  <item>
+    <title>3 astuces pour améliorer votre rentabilité</title>
+    <link>https://www.prestashop.com/fr/blog/conseils-e-commerce</link>
+    <description>3 astuces pour améliorer votre rentabilité</description>
+     <pubDate>Fri, 05 May 2017 08:14:52 +0000</pubDate> 
+<dc:creator>Preston&#039;s Friends</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/fr/blog/conseils-e-commerce</guid>
+  </item>
+  <item>
+    <title>[Etude de cas] Les bénéfices de la personnalisation pour les sites e-commerce</title>
+    <link>https://www.prestashop.com/fr/blog/etude-cas-les-benefices-personnalisation-les-sites-e-commerce</link>
+    <description>Dans la vie de tous les jours, il faut savoir bien s’entourer pour réussir. Dans le monde du e-commerce c’est pareil.</description>
+     <pubDate>Fri, 05 May 2017 08:14:52 +0000</pubDate> 
+<dc:creator>prestonsfriendsfr</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/fr/blog/etude-cas-les-benefices-personnalisation-les-sites-e-commerce</guid>
+  </item>
+  <item>
+    <title>Vendre à l’international : quelle stratégie adopter pour la traduction de votre site e-commerce ?</title>
+    <link>https://www.prestashop.com/fr/blog/vendre-linternational-quelle-strategie-adopter-traduction-site-e-commerce</link>
+    <description>Par Milega Vous possédez un site internet e-commerce PrestaShop et vous souhaitez augmenter votre taux de croissance en vous lançant dans le cross-border ?</description>
+     <pubDate>Fri, 05 May 2017 08:14:52 +0000</pubDate> 
+<dc:creator>prestonsfriendsfr</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/fr/blog/vendre-linternational-quelle-strategie-adopter-traduction-site-e-commerce</guid>
+  </item>
+  <item>
+    <title>PrestaShop 1.7.1.0 est disponible</title>
+    <link>https://www.prestashop.com/fr/blog/prestashop-1-7-1-0-disponible</link>
+    <description>Optimisations, performances, fonctionnalités - Zoom sur les nouveautés.</description>
+     <pubDate>Fri, 05 May 2017 08:14:52 +0000</pubDate> 
+<dc:creator>xavier borderie</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/fr/blog/prestashop-1-7-1-0-disponible</guid>
+  </item>
+  <item>
+    <title>3 raisons de venir nous rencontrer au salon E-Commerce Xpo Liège</title>
+    <link>https://www.prestashop.com/fr/blog/3-raisons-venir-rencontrer-au-salon-e-commerce-xpo-liege</link>
+    <description>PrestaShop et ses partenaires sont sur les starting blocks pour le salon e-Commerce Xpo qui aura lieu à Liège les 27 et 28 Mars prochains.</description>
+     <pubDate>Lundi, mars 20, 2017 - 15:54</pubDate>
+ <dc:creator>cdeguingand</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/fr/blog/3-raisons-venir-rencontrer-au-salon-e-commerce-xpo-liege</guid>
+  </item>
+  <item>
+    <title>Rendez-vous le 15 juin au PrestaShop Day Paris !</title>
+    <link>https://www.prestashop.com/fr/blog/rendez-15-juin-au-prestashop-day-paris-2017</link>
+    <description>Chère communauté, chers professionnels de l’e-commerce,</description>
+     <pubDate>Vendredi, mars 17, 2017 - 11:43</pubDate>
+ <dc:creator>sfernandes</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/fr/blog/rendez-15-juin-au-prestashop-day-paris-2017</guid>
+  </item>
+  <item>
+    <title>HTTPS et E-Commerce : Comment réaliser la bascule sans pénaliser son positionnement Google.</title>
+    <link>https://www.prestashop.com/fr/blog/https-e-commerce-comment-realiser-bascule-penaliser-positionnement-google</link>
+    <description>Qui ne s’est jamais senti rassuré par le cadenas indiqué dans son navigateur lorsque l’on commande un produit sur internet ?</description>
+     <pubDate>Vendredi, mars 17, 2017 - 08:45</pubDate>
+ <dc:creator>prestonsfriendsfr</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/fr/blog/https-e-commerce-comment-realiser-bascule-penaliser-positionnement-google</guid>
+  </item>
+  <item>
+    <title>Top 10 des fonctionnalités pour booster vos ventes et maximiser les performances de votre boutique e-commerce</title>
+    <link>https://www.prestashop.com/fr/blog/top-10-fonctionnalites-booster-vos-ventes-maximiser-les-performances-boutique-e-commerce</link>
+    <description>Sur un marché en ligne très concurrentiel et en pleine croissance, il vous faut toujours être à l&#039;affût des outils et fonctionnalités adaptés pour garder une longueur d&#039;avance.</description>
+     <pubDate>Jeudi, mars 16, 2017 - 16:26</pubDate>
+ <dc:creator>emmanuelfages</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/fr/blog/top-10-fonctionnalites-booster-vos-ventes-maximiser-les-performances-boutique-e-commerce</guid>
+  </item>
+  </channel>
+</rss>

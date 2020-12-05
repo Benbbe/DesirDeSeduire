@@ -1,0 +1,16 @@
+ProductID*;Attribute(Name:Type:Position)*;Value(Value:Position)*;Supplierreference;Reference;EAN13;UPC;Wholesaleprice;Quantity;Minimalquantity;Impactonweight;Dependsonstock
+14;Taille:select:0,Color:color:1;TU-34/40:0,Noir:1;FDG0166BLKOS;FDG0166BLKOS;;876802202306;5.56;15;0;0;1
+16;Taille:select:0,Color:color:1;TU-34/40:0,Noir:1;DG0092BLKOS;DG0092BLKOS;;876802128910;10.67;102;0;0;1
+16;Taille:select:0,Color:color:1;TU-34/40:0,Rose:1;DG0092HPKOS;DG0092HPKOS;0;876802204188;10.67;8;0;0;1
+17;Taille:select:0,Color:color:1;TU-34/40:0,Noir:1;DG0093BLKOS;DG0093BLKOS;;876802128866;8.82;0;0;0;1
+20;Taille:select:0,Color:color:1;L-42/44:0,Blanc:1;DG1300WHTL;DG1300WHTL;0;;4.41;1;0;0;1
+20;Taille:select:0,Color:color:1;M-38/40:0,Rose Flashy:1;DG1300HPKM;DG1300HPKM;0;;4.41;9;0;0;1
+20;Taille:select:0,Color:color:1;L-42/44:0,Rouge:1;DG1300REDL;DG1300REDL;;;4.41;18;0;0;1
+20;Taille:select:0,Color:color:1;M-38/40:0,Noir:1;DG1300BLKM;DG1300BLKM;;;4.41;9;0;0;1
+20;Taille:select:0,Color:color:1;S-34/36:0,Rose Flashy:1;DG1300HPKS;DG1300HPKS;;;4.41;6;0;0;1
+20;Taille:select:0,Color:color:1;S-34/36:0,Blanc:1;DG1300WHTS;DG1300WHTS;;;4.41;6;0;0;1
+20;Taille:select:0,Color:color:1;M-38/40:0,Blanc:1;DG1300WHTM;DG1300WHTM;;;4.41;9;0;0;1
+20;Taille:select:0,Color:color:1;L-42/44:0,Hot Pink:1;DG1300HPKL;DG1300HPKL;;;4.41;1;0;0;1
+20;Taille:select:0,Color:color:1;S-34/36:0,Rouge:1;DG1300REDS;DG1300REDS;;;4.41;27;0;0;1
+20;Taille:select:0,Color:color:1;S-34/36:0,Noir:1;DG1300BLKS;DG1300BLKS;;;4.41;12;0;0;1
+20;Taille:select:0,Color:color:1;M-38/40:0,Rouge:1;DG1300REDM;DG1300REDM;;;4.41;24;0;0;1

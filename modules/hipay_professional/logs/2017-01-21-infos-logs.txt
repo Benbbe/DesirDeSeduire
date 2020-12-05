@@ -1,0 +1,28 @@
+## 2017-01-21 10:37:19 ##
+---- >> function insertConfigHiPay
+## 2017-01-21 10:37:19 ##
+---- >> function setAllConfigHiPay
+## 2017-01-21 10:37:19 ##
+---- >> function insertConfigHiPay
+## 2017-01-21 10:37:19 ##
+---- >> function setAllConfigHiPay
+## 2017-01-21 10:52:01 ##
+---- >> function insertConfigHiPay
+## 2017-01-21 10:52:01 ##
+---- >> function setAllConfigHiPay
+## 2017-01-21 10:52:03 ##
+##########################
+## 2017-01-21 10:52:03 ##
+---- START function getContent
+## 2017-01-21 10:52:03 ##
+---- >> function postProcess
+## 2017-01-21 10:52:03 ##
+---- >> default action
+## 2017-01-21 10:52:03 ##
+---- >> function majConfigurationByApi
+## 2017-01-21 10:52:03 ##
+url : https://merchant.hipaywallet.com/api/tools/captcha
+## 2017-01-21 10:52:05 ##
+---- END function getContent
+## 2017-01-21 10:52:05 ##
+##########################

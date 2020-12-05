@@ -1,0 +1,70 @@
+
+/*===========================================================================*\
+|  Responsive tables
+\*===========================================================================*/ 
+
+.resp-tbl{
+    tr{
+        td{
+            .resp-tbl-head{
+                display: none;
+            }
+        }
+    }
+}
+
+@media (min-width: 0px) and (max-width: 767px){
+    .resp-tbl{
+        border: 0 none;
+        thead{
+            display: none;
+        }
+        &>tbody, &>tfoot{
+            &>tr{
+                display: block;
+                border: 1px solid #DDDDDD;
+                border-bottom: 0 none;
+                margin-bottom: 10px;
+                &>td{
+                    border-left: 0 none;
+                    border-right: 0 none;
+                    border-top: 0 none;
+                    border-bottom: 1px solid #DDDDDD;
+                    padding: 10px !important;
+                    overflow: hidden;
+                    display: block;
+                    .resp-tbl-head{
+                        display: block;
+                        text-align: left;
+                        float: left;
+                        width: 40%;
+                        text-transform: uppercase;
+                        color: black;
+                    }
+                    .resp-tbl-cnt{
+                        text-align: left;
+                        float: left;
+                        width: 60%;
+                    }
+                    .remove{
+                        line-height: 1;
+                        span{
+                            display: inline;
+                        }
+                    }
+                }
+            }
+        }
+        &>tfoot{
+            &>tr{
+                margin-bottom: 0;
+                &>td{
+                    .resp-tbl-cnt{
+                        text-align: right;
+                    }
+                }
+            }
+        }
+    }
+}
+

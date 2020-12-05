@@ -1,0 +1,12 @@
+Product_Reference;Attribute__Name_Type_Position__;Value__Value_Position__;Supplier_reference;Reference;Default__0___No__1___Yes_;EAN13;UPC;Wholesale_price;Quantity
+FDG-test;Taille:select:1, Color:color:2;L - 42/44:0, Blanc:1;FDG-testWHTL;FDG-testWHTL;;0;;3.92;1
+FDG-test;Taille:select:1, Color:color:2;M - 38/40:0, Rose Flashy:1;FDG-testHPKM;FDG-testHPKM;;0;;3.92;6
+FDG-test;Taille:select:1, Color:color:2;L - 42/44:0, Rouge:1;FDG-testREDL;FDG-testREDL;;;;3.92;6
+FDG-test;Taille:select:1, Color:color:2;M - 38/40:0, Noir:1;FDG-testBLKM;FDG-testBLKM;;;;3.92;0
+FDG-test;Taille:select:1, Color:color:2;S - 34/36:0, Rose Flashy:1;FDG-testHPKS;FDG-testHPKS;;;;3.92;0
+FDG-test;Taille:select:1, Color:color:2;S - 34/36:0, Blanc:1;FDG-testWHTS;FDG-testWHTS;;;;3.92;6
+FDG-test;Taille:select:1, Color:color:2;M - 38/40:0, Blanc:1;FDG-testWHTM;FDG-testWHTM;;;;3.92;9
+FDG-test;Taille:select:1, Color:color:2; L - 42/44:0,Hot Pink:1;FDG-testHPKL;FDG-testHPKL;;;;3.92;0
+FDG-test;Taille:select:1, Color:color:2;S - 34/36:0, Rouge:1;FDG-testREDS;FDG-testREDS;;;;3.92;18
+FDG-test;Taille:select:1, Color:color:2;S - 34/36:0, Noir:1;FDG-testBLKS;FDG-testBLKS;;;;3.92;0
+FDG-test;Taille:select:1, Color:color:2;M - 38/40:0, Rouge:1;FDG-testREDM;FDG-testREDM;;;;3.92;9

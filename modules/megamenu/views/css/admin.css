@@ -1,0 +1,52 @@
+.megamenu-column{
+	min-height: 434px;
+	border: 1px solid;
+	padding: 30px;
+}
+.megamenu-panel {
+  	margin: 50px 0;
+  	border: 1px solid;
+  	clear: both;
+}
+.megamenu-iteminput{
+	margin-top:20px;
+}
+.megamenu-iteminput select.form-controller{
+	height: 200px;
+}
+#megamenu-admin .megamenu-column .control-label {
+  font-weight: bold;
+  text-align: left;
+}
+.megamenu-itemoption{
+	display: none;
+}
+.megamenu-rowcontroll {
+  border-bottom: 1px solid;
+  margin-top: 10px;
+}
+.row-removebtn{
+	margin-right:10px;
+}
+.customlink-options{
+	margin-bottom: 17px;
+}
+#megamenu-admin .content .setting-form h3{
+	margin: 0 0 17px;
+}
+#iconModal .icons-item span {
+  font-weight: bold;
+}
+#iconModal .modal-body{
+	background: none repeat scroll 0% 0% rgb(51, 56, 62);
+}
+#iconModal .icons-item {
+  background: none repeat scroll 0 0 #FFFFFF;
+  border-radius: 5px;
+  margin-bottom: 10px;
+  padding: 3px;
+  cursor: pointer;
+}
+.megamenu-iteminput select.form-controller.slider{
+  height: auto;
+}

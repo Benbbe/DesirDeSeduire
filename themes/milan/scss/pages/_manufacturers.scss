@@ -1,0 +1,20 @@
+#manufacturers_list, #suppliers_list{
+    border-top: 1px solid #dddddd;
+    list-style: none outside none;
+    padding: 0;
+    &>li{
+        padding-top: 25px;
+        padding-bottom: 25px;
+        border-bottom: 1px solid #dddddd;
+        .left-side, .middle-side, .right-side{
+            
+        }
+    }
+}
+@media (min-width: 0) and (max-width: 767px){
+    #manufacturers_list ,#suppliers_list{
+        &>li{
+            text-align: center;
+        }
+    }
+}

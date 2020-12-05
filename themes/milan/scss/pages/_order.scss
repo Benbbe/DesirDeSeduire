@@ -1,0 +1,49 @@
+#order .delivery_option > div > table.resume td.delivery_option_radio, #order-opc .delivery_option > div > table.resume td.delivery_option_radio{
+    width: 54px;
+}
+#order .delivery_option > div > table.resume td.delivery_option_logo, #order-opc .delivery_option > div > table.resume td.delivery_option_logo{
+    padding-left: 21px;
+    width: 97px;
+}
+#order .delivery_option > div > table.resume td.delivery_option_price, #order-opc .delivery_option > div > table.resume td.delivery_option_price{
+    width: 162px;
+}
+#order .delivery_option > div > table.resume td, #order-opc .delivery_option > div > table.resume td{
+    vertical-align: middle;
+}
+p.payment_module a{
+    border-radius: 0;
+    display: block;
+    font-size: 20px;
+    font-weight: normal;
+    letter-spacing: -1px;
+    line-height: 23px;
+    padding: 33px 40px 34px 99px;
+    position: relative;
+    background: none repeat scroll 0 0 #fff;
+    border: 1px solid #ebedf0;
+    color: #212224;
+    &:hover{
+        background-color: #ebedf0;
+    }
+    span{
+        color: #a5acb8;
+    }
+}
+p.payment_module a.bankwire{
+    background: url("../img/bankwire.png") no-repeat scroll 15px 12px #fbfbfb;
+    &:hover{
+        background-color: #ebedf0;
+    }
+}
+p.payment_module a.cheque {
+    background: url("../img/cheque.png") no-repeat scroll 15px 15px #fbfbfb;
+    &:hover{
+        background-color: #ebedf0;
+    }
+}
+#address_invoice_form{
+    .btn{
+        margin-top: 28px;
+    }
+}

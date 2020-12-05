@@ -1,0 +1,23 @@
+NEW HOOKS:
+displayNavLeft - (Language, Currency, Contact info)
+displayNavRight - (Login, Wishlist, Compare)
+
+
+NEW MODULES:
+Language selector block - blocklanguages_azl
+Currency block - blockcurrencies_azl
+Contact block - blockcontact_azl
+User block - blockuser_azl
+
+
+INSTALIATON:
+
+MODULE CONFIGRATION.
+1.Disable Default prestashop language block module, Install AZELAB Language selector module.
+2.Disable Default prestashop currency block module, Install AZELAB Currency block module.
+3.Disable Default prestashop Contact block module, Install AZELAB Contact block module.
+4. Install User block module
+
+
+
+

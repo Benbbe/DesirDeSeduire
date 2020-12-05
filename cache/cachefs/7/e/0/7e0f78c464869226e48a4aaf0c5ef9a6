@@ -1,0 +1,44 @@
+a:5:{i:0;a:12:{s:6:"id_cms";s:1:"1";s:15:"id_cms_category";s:1:"1";s:8:"position";s:1:"0";s:6:"active";s:1:"1";s:10:"indexation";s:1:"0";s:7:"id_lang";s:1:"1";s:7:"id_shop";s:1:"1";s:10:"meta_title";s:9:"Livraison";s:16:"meta_description";s:27:"Nos conditions de livraison";s:13:"meta_keywords";s:50:"conditions, livraison, délais, expédition, colis";s:7:"content";s:1192:"<h2>Expéditions et retours</h2><h3>Expédition de votre colis</h3><p>Les colis sont généralement expédiés dans un délai de 2 jours après réception du paiement. Ils sont expédiés via UPS avec un numéro de suivi et remis sans signature. Les colis peuvent également être expédiés via UPS Extra et remis contre signature. Veuillez nous contacter avant de choisir ce mode de livraison, car il induit des frais supplémentaires. Quel que soit le mode de livraison choisi, nous vous envoyons un lien pour suivre votre colis en ligne.</p><p>Les frais d'expédition incluent les frais de préparation et d'emballage ainsi que les frais de port. Les frais de préparation sont fixes, tandis que les frais de transport varient selon le poids total du colis. Nous vous recommandons de regrouper tous vos articles dans une seule commande. Nous ne pouvons regrouper deux commandes placées séparément et des frais d'expédition s'appliquent à chacune d'entre elles. Votre colis est expédié à vos propres risques, mais une attention particulière est portée aux objets fragiles.<br /><br />Les dimensions des boîtes sont appropriées et vos articles sont correctement protégés.</p>";s:12:"link_rewrite";s:9:"livraison";}i:1;a:12:{s:6:"id_cms";s:1:"2";s:15:"id_cms_category";s:1:"1";s:8:"position";s:1:"1";s:6:"active";s:1:"1";s:10:"indexation";s:1:"0";s:7:"id_lang";s:1:"1";s:7:"id_shop";s:1:"1";s:10:"meta_title";s:17:"Mentions légales";s:16:"meta_description";s:17:"Mentions légales";s:13:"meta_keywords";s:28:"mentions, légales, crédits";s:7:"content";s:433:"<h2>Mentions légales</h2><h3>Crédits</h3><p>Conception et production :</p><p>cette boutique en ligne a été créée à l'aide du <a href="http://www.prestashop.com">logiciel PrestaShop. </a>Rendez-vous sur le <a href="http://www.prestashop.com/blog/en/">blog e-commerce de PrestaShop</a> pour vous tenir au courant des dernières actualités et obtenir des conseils sur la vente en ligne et la gestion d'un site d'e-commerce.</p>";s:12:"link_rewrite";s:16:"mentions-legales";}i:2;a:12:{s:6:"id_cms";s:1:"3";s:15:"id_cms_category";s:1:"1";s:8:"position";s:1:"2";s:6:"active";s:1:"1";s:10:"indexation";s:1:"0";s:7:"id_lang";s:1:"1";s:7:"id_shop";s:1:"1";s:10:"meta_title";s:24:"Conditions d'utilisation";s:16:"meta_description";s:28:"Nos conditions d'utilisation";s:13:"meta_keywords";s:30:"conditions, utilisation, vente";s:7:"content";s:1804:"<h1 class="page-heading">Conditions d'utilisation</h1>
+<h3 class="page-subheading">Règle n° 1</h3>
+<p class="bottom-indent">Lorem ipsum dolor sit amet conse ctetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<h3 class="page-subheading">Règle n° 2</h3>
+<p class="bottom-indent">Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet conse ctetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam&#1102;</p>
+<h3 class="page-subheading">Règle n° 3</h3>
+<p class="bottom-indent">Tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet conse ctetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam&#1102;</p>";s:12:"link_rewrite";s:22:"conditions-utilisation";}i:3;a:12:{s:6:"id_cms";s:1:"4";s:15:"id_cms_category";s:1:"1";s:8:"position";s:1:"3";s:6:"active";s:1:"1";s:10:"indexation";s:1:"0";s:7:"id_lang";s:1:"1";s:7:"id_shop";s:1:"1";s:10:"meta_title";s:8:"A propos";s:16:"meta_description";s:35:"En savoir plus sur notre entreprise";s:13:"meta_keywords";s:23:"à propos, informations";s:7:"content";s:2060:"<h1 class="page-heading bottom-indent">A propos</h1>
+<div class="row">
+<div class="col-xs-12 col-sm-4">
+<div class="cms-block">
+<h3 class="page-subheading">Notre entreprise</h3>
+<p><strong class="dark">Lorem ipsum dolor sit amet conse ctetur adipisicing elit, sed do eiusmod tempor incididun.</strong></p>
+<p>Lorem ipsum dolor sit amet conse ctetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam. Lorem ipsum dolor sit amet conse ctetur adipisicing elit.</p>
+<ul class="list-1">
+<li><em class="icon-ok"></em>Produits haute qualité</li>
+<li><em class="icon-ok"></em>Service client inégalé</li>
+<li><em class="icon-ok"></em>Remboursement garanti pendant 30 jours</li>
+</ul>
+</div>
+</div>
+<div class="col-xs-12 col-sm-4">
+<div class="cms-box">
+<h3 class="page-subheading">Notre équipe</h3>
+<img title="cms-img" src="../img/cms/cms-img.jpg" alt="cms-img" width="370" height="192" />
+<p><strong class="dark">Lorem set sint occaecat cupidatat non </strong></p>
+<p>Eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo.</p>
+</div>
+</div>
+<div class="col-xs-12 col-sm-4">
+<div class="cms-box">
+<h3 class="page-subheading">Témoignages</h3>
+<div class="testimonials">
+<div class="inner"><span class="before">“</span>Lorem ipsum dolor sit amet conse ctetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim.<span class="after">”</span></div>
+</div>
+<p><strong class="dark">Lorem ipsum dolor sit</strong></p>
+<div class="testimonials">
+<div class="inner"><span class="before">“</span>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet conse ctetur adipisicing elit. Lorem ipsum dolor sit amet conse ctetur adipisicing elit, sed do eiusmod.<span class="after">”</span></div>
+</div>
+<p><strong class="dark">Ipsum dolor sit</strong></p>
+</div>
+</div>
+</div>";s:12:"link_rewrite";s:8:"a-propos";}i:4;a:12:{s:6:"id_cms";s:1:"5";s:15:"id_cms_category";s:1:"1";s:8:"position";s:1:"4";s:6:"active";s:1:"1";s:10:"indexation";s:1:"0";s:7:"id_lang";s:1:"1";s:7:"id_shop";s:1:"1";s:10:"meta_title";s:19:"Paiement sécurisé";s:16:"meta_description";s:37:"Notre méthode de paiement sécurisé";s:13:"meta_keywords";s:50:"paiement sécurisé, ssl, visa, mastercard, paypal";s:7:"content";s:144:"<h2>Paiement sécurisé</h2>
+<h3>Notre paiement sécurisé</h3><p>Avec SSL</p>
+<h3>Avec Visa/Mastercard/Paypal</h3><p>A propos de ce service</p>";s:12:"link_rewrite";s:17:"paiement-securise";}}

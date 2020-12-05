@@ -1,0 +1,148 @@
+/*
+ * Azelab Theme Editor Styles 
+ */
+
+/*
+
+CSS templates
+
+
+
+*/
+
+/* ========================================================================= *\
+Layout options
+\* ========================================================================= */
+
+
+
+    
+
+
+    
+
+
+
+/* ========================================================================= *\
+Colors & Skins
+\* ========================================================================= */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            
+body{
+                background-color:  #EEEEEE ;
+        
+    
+}
+
+
+    .top-search-box{
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+
+input[type="password"].form-control, input[type="search"].form-control, input[type="text"].form-control, input[type="tel"].form-control, textarea.form-control{
+        }
+select.form-control{
+    }
+.customSelect{
+    }
+
+.pl-item .pl-button{
+    width: 25%;
+}
+
+
+
+
+.alert-info{
+        }
+.alert-success{
+        }
+.alert-danger{
+        }
+.alert-warning{
+        }
+
+
+.pl-item figure .pl-badge-new{
+            }
+.pl-item figure .pl-badge-new::before{
+    }
+.pl-item figure .pl-badge-new::after{
+    }
+
+.pl-item figure .pl-badge-sale{
+            }
+.pl-item figure .pl-badge-sale::before{
+    }
+.pl-item figure .pl-badge-sale::after{
+    }
+    .accordion-header::after{
+        content: none;
+    }
+
+
+#footer-1{
+            }
+#footer-1 .title-type-1, .title-type-2 {
+        }
+#footer-1 .form-control{
+        }
+
+
+#footer-2{
+            }
+#footer-2 .title-type-1, .title-type-2 {
+        }
+#footer-2 .form-control{
+        }
+
+#social-buttons li a, .social-buttons li a{
+            border-radius: 50%;
+            }
+
+#footer-3 .title-type-1, #footer-3 .title-type-2{
+        }
+
+#footer-3, #footer-4, #footer-5{
+        }
+#footer-3 a, #footer-4 a, #footer-5 a, #footer-3 li a{
+    }
+#footer-3 a:hover, #footer-4 a:hover, #footer-5 a:hover, #footer-3 li a:hover{
+    }
+
+#footer-3 .form-control, #footer-4 .form-control, #footer-5 .form-control{
+        }
+
+
+#footer-3 .title-type-1, #footer-4 .title-type-1, #footer-5 .title-type-1, #footer-3 .title-type-2, #footer-4 .title-type-2, #footer-5 .title-type-2{
+     
+    }
+
+
+/*
+ * Custom CSS Styles 
+ */
+

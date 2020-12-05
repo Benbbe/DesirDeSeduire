@@ -1,0 +1,800 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2dce905a-9240-4927-a715-d0da82e036b0" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="28" column="0" lean-forward="true" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Product.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/classes/Product.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="122">
+              <caret line="559" column="80" lean-forward="false" selection-start-line="559" selection-start-column="66" selection-end-line="559" selection-end-column="80" />
+              <folding>
+                <marker date="1480087984000" expanded="true" signature="25039:25267" ph="SELECT cp.`i... ${_DB_PREFIX_}category_product" />
+                <marker date="1480087984000" expanded="true" signature="27507:27677" ph="SELECT `id_p... ${_DB_PREFIX_}category_product" />
+                <marker date="1480087984000" expanded="true" signature="28512:28718" ph="SELECT `id_p... ${_DB_PREFIX_}category_product" />
+                <marker date="1480087984000" expanded="true" signature="30234:30415" ph="SELECT produ... ${_DB_PREFIX_}" />
+                <marker date="1480087984000" expanded="true" signature="30645:31079" ph="SELECT produ... ${_DB_PREFIX_}" />
+                <marker date="1480087984000" expanded="true" signature="31197:31467" ph="SELECT produ... ${_DB_PREFIX_}" />
+                <marker date="1480087984000" expanded="true" signature="31712:31945" ph="SELECT produ... ${_DB_PREFIX_}" />
+                <marker date="1480087984000" expanded="true" signature="40099:40264" ph="SELECT id_ca... ${_DB_PREFIX_}category_product" />
+                <marker date="1480087984000" expanded="true" signature="41591:41915" ph="SELECT c.`id... ${_DB_PREFIX_}category_product" />
+                <marker date="1480087984000" expanded="true" signature="42689:42850" ph="SELECT `id_c... ${_DB_PREFIX_}category_product" />
+                <marker date="1480087984000" expanded="true" signature="43665:43766" ph="SELECT `id_c... ${_DB_PREFIX_}category_product" />
+                <marker date="1480087984000" expanded="true" signature="44773:44846" ph="SELECT `id_i... ${_DB_PREFIX_}image" />
+                <marker date="1480087984000" expanded="true" signature="46733:47732" ph="SELECT p.*, ${_DB_PREFIX_}product" />
+                <marker date="1480087984000" expanded="true" signature="48461:48848" ph="SELECT p.`id... ${_DB_PREFIX_}product" />
+                <marker date="1480087984000" expanded="true" signature="49011:49411" ph="SELECT p.id_... ${_DB_PREFIX_}product" />
+                <marker date="1480087984000" expanded="true" signature="49873:50308" ph="SELECT pac.`... ${_DB_PREFIX_}product_attribute" />
+                <marker date="1480087984000" expanded="true" signature="65859:66004" ph="SELECT SUM(q... ${_DB_PREFIX_}" />
+                <marker date="1480087984000" expanded="true" signature="68565:68635" ph="DELETE FROM " />
+                <marker date="1480087984000" expanded="true" signature="69049:69142" ph="SELECT id_at... ${_DB_PREFIX_}" />
+                <marker date="1480087984000" expanded="true" signature="69692:69764" ph="DELETE FROM " />
+                <marker date="1480087984000" expanded="true" signature="70197:70271" ph="DELETE FROM " />
+                <marker date="1480087984000" expanded="true" signature="70944:71052" ph="DELETE FROM " />
+                <marker date="1480087984000" expanded="true" signature="71273:71339" ph="DELETE FROM " />
+                <marker date="1480087984000" expanded="true" signature="71570:71638" ph="DELETE FROM " />
+                <marker date="1480087984000" expanded="true" signature="74743:74924" ph="SELECT p.*, ${_DB_PREFIX_}feature_product" />
+                <marker date="1480087984000" expanded="true" signature="75110:75184" ph="DELETE FROM " />
+                <marker date="1480087984000" expanded="true" signature="75267:75346" ph="DELETE FROM " />
+                <marker date="1480087984000" expanded="true" signature="75488:75556" ph="DELETE FROM " />
+                <marker date="1480087984000" expanded="true" signature="76095:76324" ph="SELECT pa.*,... ${_DB_PREFIX_}product_attribute" />
+                <marker date="1480087984000" expanded="true" signature="78631:79635" ph="SELECT pa.*,... ${_DB_PREFIX_}product_attribute" />
+                <marker date="1480087984000" expanded="true" signature="80654:81725" ph="SELECT pa.*,... ${_DB_PREFIX_}product_attribute" />
+                <marker date="1480087984000" expanded="true" signature="82641:82738" ph="SELECT `id_p... ${_DB_PREFIX_}product_attribute" />
+                <marker date="1480087984000" expanded="true" signature="83059:83451" ph="SELECT pai.`... ${_DB_PREFIX_}product_attribute_image" />
+                <marker date="1480087984000" expanded="true" signature="83943:84347" ph="SELECT pai.`... ${_DB_PREFIX_}product_attribute_image" />
+                <marker date="1480087984000" expanded="true" signature="84764:84911" ph="SELECT COUNT... ${_DB_PREFIX_}product_attribute" />
+                <marker date="1480087984000" expanded="true" signature="86978:87404" ph="SELECT COUNT... ${_DB_PREFIX_}product" />
+                <marker date="1480087984000" expanded="true" signature="92990:93045" ph="INSERT INTO `${_DB_PREFIX_}product_reductions`... " />
+                <marker date="1480087984000" expanded="true" signature="93572:94365" ph="SELECT produ... ${_DB_PREFIX_}product_reductions" />
+                <marker date="1480087984000" expanded="true" signature="98887:99325" ph="SELECT COUNT... ${_DB_PREFIX_}product" />
+                <marker date="1480087984000" expanded="true" signature="102393:102478" ph="SELECT `id_c... ${_DB_PREFIX_}category_product" />
+                <marker date="1480087984000" expanded="true" signature="103067:103486" ph="SELECT cp.`i... ${_DB_PREFIX_}category_product" />
+                <marker date="1480087984000" expanded="true" signature="104044:104283" ph="SELECT c.* F... ${_DB_PREFIX_}product_carrier" />
+                <marker date="1480087984000" expanded="true" signature="104757:104860" ph="DELETE FROM " />
+                <marker date="1480087984000" expanded="true" signature="105539:105866" ph="SELECT image... ${_DB_PREFIX_}image" />
+                <marker date="1480087984000" expanded="true" signature="106288:106479" ph="SELECT image... ${_DB_PREFIX_}image" />
+                <marker date="1480087984000" expanded="true" signature="111056:111184" ph="SELECT SUM(`... ${_DB_PREFIX_}cart_product" />
+                <marker date="1480087984000" expanded="true" signature="124246:124368" ph="SELECT SUM(`... ${_DB_PREFIX_}cart_product" />
+                <marker date="1480087984000" expanded="true" signature="126329:126555" ph="SELECT pa.`i... ${_DB_PREFIX_}product_attribute" />
+                <marker date="1480087984000" expanded="true" signature="126774:127001" ph="SELECT pa.`i... ${_DB_PREFIX_}product_attribute" />
+                <marker date="1480087984000" expanded="true" signature="133222:133420" ph="SELECT COUNT... ${_DB_PREFIX_}product_attribute" />
+                <marker date="1480087984000" expanded="true" signature="133935:134135" ph="SELECT pa.id... ${_DB_PREFIX_}product_attribute" />
+                <marker date="1480087984000" expanded="true" signature="134265:134444" ph="SELECT MIN(p... ${_DB_PREFIX_}product_attribute" />
+                <marker date="1480087984000" expanded="true" signature="136999:138558" ph="SELECT ag.`i... ${_DB_PREFIX_}product_attribute" />
+                <marker date="1480087984000" expanded="true" signature="139420:139822" ph="SELECT p.`id... ${_DB_PREFIX_}accessory" />
+                <marker date="1480087984000" expanded="true" signature="142625:142709" ph="SELECT `id_p... ${_DB_PREFIX_}product_lang" />
+                <marker date="1480087984000" expanded="true" signature="144243:144439" ph="INSERT INTO `${_DB_PREFIX_}feature_product`... " />
+                <marker date="1480087984000" expanded="true" signature="144440:144468" ph="UPDATE `id_f... " />
+                <marker date="1480087984000" expanded="true" signature="145048:145278" ph="SELECT fp.id... ${_DB_PREFIX_}feature_product" />
+                <marker date="1480087984000" expanded="true" signature="145918:146066" ph="SELECT id_fe... ${_DB_PREFIX_}feature_product" />
+                <marker date="1480087984000" expanded="true" signature="146908:147445" ph="SELECT id_pr... ${_DB_PREFIX_}" />
+                <marker date="1480087984000" expanded="true" signature="150605:150774" ph="SELECT pa.*,... ${_DB_PREFIX_}product_attribute" />
+                <marker date="1480087984000" expanded="true" signature="151155:151256" ph="SELECT * FRO... ${_DB_PREFIX_}product_attribute_combination" />
+                <marker date="1480087984000" expanded="true" signature="152915:153057" ph="SELECT * FRO... ${_DB_PREFIX_}product_supplier" />
+                <marker date="1480087984000" expanded="true" signature="153559:153661" ph="INSERT INTO `${_DB_PREFIX_}attribute_impact`... " />
+                <marker date="1480087984000" expanded="true" signature="154390:154512" ph="SELECT ai.`i... ${_DB_PREFIX_}attribute_impact" />
+                <marker date="1480087984000" expanded="true" signature="155136:155237" ph="SELECT `id_i... ${_DB_PREFIX_}product_attribute_image" />
+                <marker date="1480087984000" expanded="true" signature="155577:155645" ph="SELECT * FRO... ${_DB_PREFIX_}accessory" />
+                <marker date="1480087984000" expanded="true" signature="156088:156170" ph="SELECT `id_t... ${_DB_PREFIX_}product_tag" />
+                <marker date="1480087984000" expanded="true" signature="156716:156920" ph="SELECT `disp... ${_DB_PREFIX_}product_download" />
+                <marker date="1480087984000" expanded="true" signature="158103:158188" ph="SELECT `id_a... ${_DB_PREFIX_}product_attachment" />
+                <marker date="1480087984000" expanded="true" signature="159145:159217" ph="SELECT * FRO... ${_DB_PREFIX_}feature_product" />
+                <marker date="1480087984000" expanded="true" signature="159332:159410" ph="SELECT * FRO... ${_DB_PREFIX_}feature_value" />
+                <marker date="1480087984000" expanded="true" signature="159803:159880" ph="SELECT MAX(`... ${_DB_PREFIX_}feature_value" />
+                <marker date="1480087984000" expanded="true" signature="160068:160207" ph="SELECT * FRO... ${_DB_PREFIX_}feature_value_lang" />
+                <marker date="1480087984000" expanded="true" signature="161216:161394" ph="SELECT `id_c... ${_DB_PREFIX_}customization_field" />
+                <marker date="1480087984000" expanded="true" signature="161824:162098" ph="SELECT `id_c... ${_DB_PREFIX_}customization_field_lang" />
+                <marker date="1480087984000" expanded="true" signature="164760:164888" ph="SELECT * FRO... ${_DB_PREFIX_}product_supplier" />
+                <marker date="1480087984000" expanded="true" signature="173775:174333" ph="SELECT name,... ${_DB_PREFIX_}" />
+                <marker date="1480087984000" expanded="true" signature="174707:174983" ph="SELECT * FRO... ${_DB_PREFIX_}" />
+                <marker date="1480087984000" expanded="true" signature="175785:176424" ph="SELECT cd.`i... ${_DB_PREFIX_}customized_data" />
+                <marker date="1480087984000" expanded="true" signature="176810:177011" ph="SELECT `id_p... ${_DB_PREFIX_}customization" />
+                <marker date="1480087984000" expanded="true" signature="181707:181871" ph="SELECT `id_c... ${_DB_PREFIX_}customization_field" />
+                <marker date="1480087984000" expanded="true" signature="184679:184812" ph="INSERT INTO `${_DB_PREFIX_}customization_field`... " />
+                <marker date="1480087984000" expanded="true" signature="185337:185458" ph="INSERT INTO `${_DB_PREFIX_}customization_field_lang`... " />
+                <marker date="1480087984000" expanded="true" signature="186896:187115" ph="INSERT INTO `${_DB_PREFIX_}customization_field_lang`... " />
+                <marker date="1480087984000" expanded="true" signature="187116:187152" ph="UPDATE `name... " />
+                <marker date="1480087984000" expanded="true" signature="187309:187501" ph="INSERT INTO `${_DB_PREFIX_}customization_field_lang`... " />
+                <marker date="1480087984000" expanded="true" signature="187502:187538" ph="UPDATE `name... " />
+                <marker date="1480087984000" expanded="true" signature="188724:189131" ph="SELECT cf.`i... ${_DB_PREFIX_}customization_field" />
+                <marker date="1480087984000" expanded="true" signature="189678:189799" ph="SELECT `id_c... ${_DB_PREFIX_}customization_field" />
+                <marker date="1480087984000" expanded="true" signature="190266:190409" ph="SELECT `id_c... ${_DB_PREFIX_}customization_field" />
+                <marker date="1480087984000" expanded="true" signature="191838:191959" ph="SELECT id_pr... ${_DB_PREFIX_}category_product" />
+                <marker date="1480087984000" expanded="true" signature="193147:193378" ph="SELECT ctg.`... ${_DB_PREFIX_}category_product" />
+                <marker date="1480087984000" expanded="true" signature="193516:193834" ph="SELECT cg.`i... ${_DB_PREFIX_}category_product" />
+                <marker date="1480087984000" expanded="true" signature="195398:196391" ph="SELECT sm.id... ${_DB_PREFIX_}stock_mvt" />
+                <marker date="1480087984000" expanded="true" signature="196543:197152" ph="SELECT pl.`i... ${_DB_PREFIX_}product" />
+                <marker date="1480087984000" expanded="true" signature="197650:197781" ph="SELECT `id_t... ${_DB_PREFIX_}product_shop" />
+                <marker date="1480087984000" expanded="true" signature="199388:199457" ph="DELETE FROM " />
+                <marker date="1480087984000" expanded="true" signature="200484:200711" ph="SELECT cp.`i... ${_DB_PREFIX_}category_product" />
+                <marker date="1480087984000" expanded="true" signature="201483:201583" ph="INSERT INTO `${_DB_PREFIX_}category_product`... " />
+                <marker date="1480087984000" expanded="true" signature="202109:202324" ph="SELECT p.`id... ${_DB_PREFIX_}accessory" />
+                <marker date="1480087984000" expanded="true" signature="202712:202838" ph="INSERT INTO `${_DB_PREFIX_}accessory`... " />
+                <marker date="1480087984000" expanded="true" signature="203109:203279" ph="SELECT pa.`i... ${_DB_PREFIX_}product_attribute" />
+                <marker date="1480087984000" expanded="true" signature="203797:203967" ph="SELECT pa.`i... ${_DB_PREFIX_}product_attribute" />
+                <marker date="1480087984000" expanded="true" signature="204210:204292" ph="SELECT pa.`i... ${_DB_PREFIX_}product_attribute" />
+                <marker date="1480087984000" expanded="true" signature="205391:205475" ph="INSERT INTO `${_DB_PREFIX_}product_attribute`... " />
+                <marker date="1480087984000" expanded="true" signature="205756:206044" ph="SELECT DISTI... ${_DB_PREFIX_}product_attribute" />
+                <marker date="1480087984000" expanded="true" signature="206297:206434" ph="SELECT posit... ${_DB_PREFIX_}category_product" />
+                <marker date="1480087984000" expanded="true" signature="206981:207126" ph="SELECT `id_p... ${_DB_PREFIX_}category_product" />
+                <marker date="1480087984000" expanded="true" signature="209179:209348" ph="SELECT i.`id... ${_DB_PREFIX_}image" />
+                <marker date="1480087984000" expanded="true" signature="209452:209592" ph="SELECT `id_s... ${_DB_PREFIX_}stock_available" />
+                <marker date="1480087984000" expanded="true" signature="209740:209821" ph="SELECT `id_t... ${_DB_PREFIX_}product_tag" />
+                <marker date="1480087984000" expanded="true" signature="210383:210441" ph="SELECT `id_l... ${_DB_PREFIX_}tag" />
+                <marker date="1480087984000" expanded="true" signature="210625:210714" ph="INSERT INTO `${_DB_PREFIX_}product_tag`... " />
+                <marker date="1480087984000" expanded="true" signature="211746:211843" ph="SELECT `refe... ${_DB_PREFIX_}product" />
+                <marker date="1480087984000" expanded="true" signature="212213:212398" ph="SELECT pa.id... ${_DB_PREFIX_}product_attribute" />
+                <marker date="1480087984000" expanded="true" signature="213218:213896" ph="SELECT DISTI... ${_DB_PREFIX_}attribute" />
+                <marker date="1480087984000" expanded="true" signature="214213:214628" ph="SELECT a.`id... ${_DB_PREFIX_}layered_indexable_attribute_group_lang_value" />
+                <marker date="1480087984000" expanded="true" signature="214742:215088" ph="SELECT g.`id... ${_DB_PREFIX_}attribute_group_lang" />
+                <marker date="1480087984000" expanded="true" signature="215271:216160" ph="SELECT DISTI... ${_DB_PREFIX_}attribute" />
+                <marker date="1480087984000" expanded="true" signature="216352:217178" ph="SELECT a.`id... ${_DB_PREFIX_}attribute" />
+                <marker date="1480087984000" expanded="true" signature="217770:218423" ph="SELECT DISTI... ${_DB_PREFIX_}attribute" />
+                <marker date="1480087984000" expanded="true" signature="218730:219154" ph="SELECT g.`id... ${_DB_PREFIX_}layered_indexable_attribute_group_lang_value" />
+                <marker date="1480087984000" expanded="true" signature="219268:219641" ph="SELECT g.`id... ${_DB_PREFIX_}attribute_group_lang" />
+                <marker date="1480087984000" expanded="true" signature="219824:220768" ph="SELECT DISTI... ${_DB_PREFIX_}attribute" />
+                <marker date="1480087984000" expanded="true" signature="220921:221775" ph="SELECT DISTI... ${_DB_PREFIX_}attribute" />
+                <marker date="1480087984000" expanded="true" signature="221882:222724" ph="SELECT DISTI... ${_DB_PREFIX_}attribute" />
+                <marker date="1480087984000" expanded="true" signature="229906:230001" ph="SELECT `adva... ${_DB_PREFIX_}" />
+                <marker date="1480087984000" expanded="true" signature="230873:231023" ph="SELECT produ... ${_DB_PREFIX_}product" />
+                <marker date="1480087984000" expanded="true" signature="231354:231433" ph="SELECT `id_s... ${_DB_PREFIX_}product_shop" />
+                <marker date="1480087984000" expanded="true" signature="233327:233548" ph="SELECT pa.id... ${_DB_PREFIX_}product_attribute" />
+                <marker date="1480087984000" expanded="true" signature="233695:234130" ph="SELECT id_ta... COUNT" />
+                <marker date="1480087984000" expanded="true" signature="233739:234113" ph="SELECT COUNT... ${_DB_PREFIX_}" />
+                <marker date="1480087984000" expanded="true" signature="235665:235753" ph="SELECT id_pr... ${_DB_PREFIX_}" />
+                <marker date="1480087984000" expanded="true" signature="236948:237708" ph="SELECT sa.id... ${_DB_PREFIX_}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="StockAvailable.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/classes/stock/StockAvailable.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="361">
+              <caret line="175" column="32" lean-forward="true" selection-start-line="175" selection-start-column="32" selection-end-line="175" selection-end-column="32" />
+              <folding>
+                <marker date="1480087984000" expanded="true" signature="18984:19138" ph="SELECT SUM(q... ${_DB_PREFIX_}" />
+                <marker date="1480087984000" expanded="true" signature="24028:24271" ph="SELECT COUNT... ${_DB_PREFIX_}" />
+                <marker date="1480087984000" expanded="true" signature="24399:24463" ph="DELETE FROM " />
+                <marker date="1480087984000" expanded="true" signature="31691:32083" ph="INSERT INTO ${_DB_PREFIX_}stock_available... " />
+                <marker date="1480087984000" expanded="true" signature="31880:32048" ph="SELECT id_pr... ${_DB_PREFIX_}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ProductController.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/controllers/front/ProductController.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="64">
+              <caret line="558" column="7" lean-forward="false" selection-start-line="558" selection-start-column="7" selection-end-line="558" selection-end-column="7" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>sf-menu</find>
+      <find>block_top_menu</find>
+      <find>.sf-menu a</find>
+      <find>sf-with-ul</find>
+      <find>333333</find>
+      <find>.sf-menu</find>
+      <find>color</find>
+      <find>background</find>
+      <find>StockAvailable</find>
+      <find>quantity</find>
+      <find>synchronize</find>
+    </findStrings>
+    <dirStrings>
+      <dir>E:\dev\servers\xampp\htdocs\underwears\controllers</dir>
+    </dirStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/themes/blackhawk3.2/css/bootstrap_lib/bootstrap.css" />
+        <option value="$PROJECT_DIR$/themes/blackhawk3.2/css/category.css" />
+        <option value="$PROJECT_DIR$/themes/blackhawk3.2/css/global.css" />
+        <option value="$PROJECT_DIR$/themes/blackhawk3.2/css/modules/blocktopmenu/css/superfish-modified.css" />
+        <option value="$PROJECT_DIR$/controllers/front/ProductController.php" />
+        <option value="$PROJECT_DIR$/classes/Product.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-4" />
+    <option name="y" value="-4" />
+    <option name="width" value="1374" />
+    <option name="height" value="732" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="underwears" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="underwears" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path" value="$PROJECT_DIR$/../../../../apps/js/nodejs/node" />
+    <property name="js.eslint.eslintPackage" value="" />
+    <property name="js-jscs-nodeInterpreter" value="E:\dev\apps\js\nodejs\node.exe" />
+  </component>
+  <component name="RunManager" selected="PHPUnit.controllers">
+    <configuration default="false" name="controllers" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
+      <TestRunner directory="$PROJECT_DIR$/controllers" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpSpecConfigurationType" factoryName="PHPSpec">
+      <PhpTestRunnerSettings />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="PHPUnit.controllers" />
+    </list>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="PHPUnit.controllers" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2dce905a-9240-4927-a715-d0da82e036b0" name="Default" comment="" />
+      <created>1484442507789</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1484442507789</updated>
+      <workItem from="1484442509120" duration="624000" />
+      <workItem from="1484489057154" duration="12345000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="12969000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-4" y="-4" width="1374" height="732" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24963397" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2971698" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/themes/blackhawk3.2/modules/productscategory/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/blackhawk3.2/modules/productscategory/productscategory.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/blackhawk3.2/modules/blocknewproducts/blocknewproducts_home.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="31" column="5" lean-forward="false" selection-start-line="31" selection-start-column="5" selection-end-line="31" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/blackhawk3.2/modules/blocknewproducts/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/blackhawk3.2/css/category.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="341">
+          <caret line="75" column="0" lean-forward="true" selection-start-line="75" selection-start-column="0" selection-end-line="75" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/default-bootstrap/css/modules/blocktopmenu/css/blocktopmenu.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="1" lean-forward="false" selection-start-line="0" selection-start-column="1" selection-end-line="0" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/blackhawk3.2/modules/blockcategories/blockcategories_top.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="314">
+          <caret line="46" column="0" lean-forward="false" selection-start-line="46" selection-start-column="0" selection-end-line="46" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/blackhawk3.2/css/modules/blockcategories/blockcategories.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="83" column="9" lean-forward="false" selection-start-line="83" selection-start-column="4" selection-end-line="83" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/blackhawk3.2/css/bootstrap_lib/bootstrap.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="185">
+          <caret line="3603" column="17" lean-forward="false" selection-start-line="3603" selection-start-column="17" selection-end-line="3603" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/blackhawk3.2/modules/blocknewproducts/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="28" column="58" lean-forward="false" selection-start-line="28" selection-start-column="58" selection-end-line="28" selection-end-column="58" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/blackhawk3.2/modules/blocknewproducts/blocknewproducts_home.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="341">
+          <caret line="31" column="5" lean-forward="false" selection-start-line="31" selection-start-column="5" selection-end-line="31" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/blackhawk3.2/modules/productscategory/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/blackhawk3.2/css/global.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1868" column="25" lean-forward="true" selection-start-line="1868" selection-start-column="25" selection-end-line="1868" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/blocktopmenu/css/superfish-modified.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/blackhawk3.2/css/modules/blocktopmenu/css/superfish-modified.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="341">
+          <caret line="92" column="21" lean-forward="false" selection-start-line="92" selection-start-column="21" selection-end-line="92" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Core/Business/Core_Business_ConfigurationInterface.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controllers/front/OrderController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="341">
+          <caret line="479" column="0" lean-forward="true" selection-start-line="479" selection-start-column="0" selection-end-line="479" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controllers/product-tab.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/blackhawk3.2/modules/productscategory/productscategory.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="341">
+          <caret line="50" column="5" lean-forward="true" selection-start-line="50" selection-start-column="5" selection-end-line="50" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/init.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/footer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Core/Business/Core_Business_ContainerBuilder.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controllers/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Core/Business/Payment/Core_Business_Payment_PaymentOption.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="341">
+          <caret line="214" column="0" lean-forward="true" selection-start-line="214" selection-start-column="0" selection-end-line="214" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Core/Business/Stock/Core_Business_Stock_StockManager.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1569">
+          <caret line="35" column="6" lean-forward="true" selection-start-line="35" selection-start-column="6" selection-end-line="35" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Core/Foundation/IoC/Core_Foundation_IoC_Container.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="341">
+          <caret line="172" column="0" lean-forward="true" selection-start-line="172" selection-start-column="0" selection-end-line="172" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/config.inc.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="341">
+          <caret line="131" column="0" lean-forward="false" selection-start-line="131" selection-start-column="0" selection-end-line="131" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="28" column="0" lean-forward="true" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/classes/Product.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="122">
+          <caret line="559" column="80" lean-forward="false" selection-start-line="559" selection-start-column="66" selection-end-line="559" selection-end-column="80" />
+          <folding>
+            <marker date="1480087984000" expanded="true" signature="25039:25267" ph="SELECT cp.`i... ${_DB_PREFIX_}category_product" />
+            <marker date="1480087984000" expanded="true" signature="27507:27677" ph="SELECT `id_p... ${_DB_PREFIX_}category_product" />
+            <marker date="1480087984000" expanded="true" signature="28512:28718" ph="SELECT `id_p... ${_DB_PREFIX_}category_product" />
+            <marker date="1480087984000" expanded="true" signature="30234:30415" ph="SELECT produ... ${_DB_PREFIX_}" />
+            <marker date="1480087984000" expanded="true" signature="30645:31079" ph="SELECT produ... ${_DB_PREFIX_}" />
+            <marker date="1480087984000" expanded="true" signature="31197:31467" ph="SELECT produ... ${_DB_PREFIX_}" />
+            <marker date="1480087984000" expanded="true" signature="31712:31945" ph="SELECT produ... ${_DB_PREFIX_}" />
+            <marker date="1480087984000" expanded="true" signature="40099:40264" ph="SELECT id_ca... ${_DB_PREFIX_}category_product" />
+            <marker date="1480087984000" expanded="true" signature="41591:41915" ph="SELECT c.`id... ${_DB_PREFIX_}category_product" />
+            <marker date="1480087984000" expanded="true" signature="42689:42850" ph="SELECT `id_c... ${_DB_PREFIX_}category_product" />
+            <marker date="1480087984000" expanded="true" signature="43665:43766" ph="SELECT `id_c... ${_DB_PREFIX_}category_product" />
+            <marker date="1480087984000" expanded="true" signature="44773:44846" ph="SELECT `id_i... ${_DB_PREFIX_}image" />
+            <marker date="1480087984000" expanded="true" signature="46733:47732" ph="SELECT p.*, ${_DB_PREFIX_}product" />
+            <marker date="1480087984000" expanded="true" signature="48461:48848" ph="SELECT p.`id... ${_DB_PREFIX_}product" />
+            <marker date="1480087984000" expanded="true" signature="49011:49411" ph="SELECT p.id_... ${_DB_PREFIX_}product" />
+            <marker date="1480087984000" expanded="true" signature="49873:50308" ph="SELECT pac.`... ${_DB_PREFIX_}product_attribute" />
+            <marker date="1480087984000" expanded="true" signature="65859:66004" ph="SELECT SUM(q... ${_DB_PREFIX_}" />
+            <marker date="1480087984000" expanded="true" signature="68565:68635" ph="DELETE FROM " />
+            <marker date="1480087984000" expanded="true" signature="69049:69142" ph="SELECT id_at... ${_DB_PREFIX_}" />
+            <marker date="1480087984000" expanded="true" signature="69692:69764" ph="DELETE FROM " />
+            <marker date="1480087984000" expanded="true" signature="70197:70271" ph="DELETE FROM " />
+            <marker date="1480087984000" expanded="true" signature="70944:71052" ph="DELETE FROM " />
+            <marker date="1480087984000" expanded="true" signature="71273:71339" ph="DELETE FROM " />
+            <marker date="1480087984000" expanded="true" signature="71570:71638" ph="DELETE FROM " />
+            <marker date="1480087984000" expanded="true" signature="74743:74924" ph="SELECT p.*, ${_DB_PREFIX_}feature_product" />
+            <marker date="1480087984000" expanded="true" signature="75110:75184" ph="DELETE FROM " />
+            <marker date="1480087984000" expanded="true" signature="75267:75346" ph="DELETE FROM " />
+            <marker date="1480087984000" expanded="true" signature="75488:75556" ph="DELETE FROM " />
+            <marker date="1480087984000" expanded="true" signature="76095:76324" ph="SELECT pa.*,... ${_DB_PREFIX_}product_attribute" />
+            <marker date="1480087984000" expanded="true" signature="78631:79635" ph="SELECT pa.*,... ${_DB_PREFIX_}product_attribute" />
+            <marker date="1480087984000" expanded="true" signature="80654:81725" ph="SELECT pa.*,... ${_DB_PREFIX_}product_attribute" />
+            <marker date="1480087984000" expanded="true" signature="82641:82738" ph="SELECT `id_p... ${_DB_PREFIX_}product_attribute" />
+            <marker date="1480087984000" expanded="true" signature="83059:83451" ph="SELECT pai.`... ${_DB_PREFIX_}product_attribute_image" />
+            <marker date="1480087984000" expanded="true" signature="83943:84347" ph="SELECT pai.`... ${_DB_PREFIX_}product_attribute_image" />
+            <marker date="1480087984000" expanded="true" signature="84764:84911" ph="SELECT COUNT... ${_DB_PREFIX_}product_attribute" />
+            <marker date="1480087984000" expanded="true" signature="86978:87404" ph="SELECT COUNT... ${_DB_PREFIX_}product" />
+            <marker date="1480087984000" expanded="true" signature="92990:93045" ph="INSERT INTO `${_DB_PREFIX_}product_reductions`... " />
+            <marker date="1480087984000" expanded="true" signature="93572:94365" ph="SELECT produ... ${_DB_PREFIX_}product_reductions" />
+            <marker date="1480087984000" expanded="true" signature="98887:99325" ph="SELECT COUNT... ${_DB_PREFIX_}product" />
+            <marker date="1480087984000" expanded="true" signature="102393:102478" ph="SELECT `id_c... ${_DB_PREFIX_}category_product" />
+            <marker date="1480087984000" expanded="true" signature="103067:103486" ph="SELECT cp.`i... ${_DB_PREFIX_}category_product" />
+            <marker date="1480087984000" expanded="true" signature="104044:104283" ph="SELECT c.* F... ${_DB_PREFIX_}product_carrier" />
+            <marker date="1480087984000" expanded="true" signature="104757:104860" ph="DELETE FROM " />
+            <marker date="1480087984000" expanded="true" signature="105539:105866" ph="SELECT image... ${_DB_PREFIX_}image" />
+            <marker date="1480087984000" expanded="true" signature="106288:106479" ph="SELECT image... ${_DB_PREFIX_}image" />
+            <marker date="1480087984000" expanded="true" signature="111056:111184" ph="SELECT SUM(`... ${_DB_PREFIX_}cart_product" />
+            <marker date="1480087984000" expanded="true" signature="124246:124368" ph="SELECT SUM(`... ${_DB_PREFIX_}cart_product" />
+            <marker date="1480087984000" expanded="true" signature="126329:126555" ph="SELECT pa.`i... ${_DB_PREFIX_}product_attribute" />
+            <marker date="1480087984000" expanded="true" signature="126774:127001" ph="SELECT pa.`i... ${_DB_PREFIX_}product_attribute" />
+            <marker date="1480087984000" expanded="true" signature="133222:133420" ph="SELECT COUNT... ${_DB_PREFIX_}product_attribute" />
+            <marker date="1480087984000" expanded="true" signature="133935:134135" ph="SELECT pa.id... ${_DB_PREFIX_}product_attribute" />
+            <marker date="1480087984000" expanded="true" signature="134265:134444" ph="SELECT MIN(p... ${_DB_PREFIX_}product_attribute" />
+            <marker date="1480087984000" expanded="true" signature="136999:138558" ph="SELECT ag.`i... ${_DB_PREFIX_}product_attribute" />
+            <marker date="1480087984000" expanded="true" signature="139420:139822" ph="SELECT p.`id... ${_DB_PREFIX_}accessory" />
+            <marker date="1480087984000" expanded="true" signature="142625:142709" ph="SELECT `id_p... ${_DB_PREFIX_}product_lang" />
+            <marker date="1480087984000" expanded="true" signature="144243:144439" ph="INSERT INTO `${_DB_PREFIX_}feature_product`... " />
+            <marker date="1480087984000" expanded="true" signature="144440:144468" ph="UPDATE `id_f... " />
+            <marker date="1480087984000" expanded="true" signature="145048:145278" ph="SELECT fp.id... ${_DB_PREFIX_}feature_product" />
+            <marker date="1480087984000" expanded="true" signature="145918:146066" ph="SELECT id_fe... ${_DB_PREFIX_}feature_product" />
+            <marker date="1480087984000" expanded="true" signature="146908:147445" ph="SELECT id_pr... ${_DB_PREFIX_}" />
+            <marker date="1480087984000" expanded="true" signature="150605:150774" ph="SELECT pa.*,... ${_DB_PREFIX_}product_attribute" />
+            <marker date="1480087984000" expanded="true" signature="151155:151256" ph="SELECT * FRO... ${_DB_PREFIX_}product_attribute_combination" />
+            <marker date="1480087984000" expanded="true" signature="152915:153057" ph="SELECT * FRO... ${_DB_PREFIX_}product_supplier" />
+            <marker date="1480087984000" expanded="true" signature="153559:153661" ph="INSERT INTO `${_DB_PREFIX_}attribute_impact`... " />
+            <marker date="1480087984000" expanded="true" signature="154390:154512" ph="SELECT ai.`i... ${_DB_PREFIX_}attribute_impact" />
+            <marker date="1480087984000" expanded="true" signature="155136:155237" ph="SELECT `id_i... ${_DB_PREFIX_}product_attribute_image" />
+            <marker date="1480087984000" expanded="true" signature="155577:155645" ph="SELECT * FRO... ${_DB_PREFIX_}accessory" />
+            <marker date="1480087984000" expanded="true" signature="156088:156170" ph="SELECT `id_t... ${_DB_PREFIX_}product_tag" />
+            <marker date="1480087984000" expanded="true" signature="156716:156920" ph="SELECT `disp... ${_DB_PREFIX_}product_download" />
+            <marker date="1480087984000" expanded="true" signature="158103:158188" ph="SELECT `id_a... ${_DB_PREFIX_}product_attachment" />
+            <marker date="1480087984000" expanded="true" signature="159145:159217" ph="SELECT * FRO... ${_DB_PREFIX_}feature_product" />
+            <marker date="1480087984000" expanded="true" signature="159332:159410" ph="SELECT * FRO... ${_DB_PREFIX_}feature_value" />
+            <marker date="1480087984000" expanded="true" signature="159803:159880" ph="SELECT MAX(`... ${_DB_PREFIX_}feature_value" />
+            <marker date="1480087984000" expanded="true" signature="160068:160207" ph="SELECT * FRO... ${_DB_PREFIX_}feature_value_lang" />
+            <marker date="1480087984000" expanded="true" signature="161216:161394" ph="SELECT `id_c... ${_DB_PREFIX_}customization_field" />
+            <marker date="1480087984000" expanded="true" signature="161824:162098" ph="SELECT `id_c... ${_DB_PREFIX_}customization_field_lang" />
+            <marker date="1480087984000" expanded="true" signature="164760:164888" ph="SELECT * FRO... ${_DB_PREFIX_}product_supplier" />
+            <marker date="1480087984000" expanded="true" signature="173775:174333" ph="SELECT name,... ${_DB_PREFIX_}" />
+            <marker date="1480087984000" expanded="true" signature="174707:174983" ph="SELECT * FRO... ${_DB_PREFIX_}" />
+            <marker date="1480087984000" expanded="true" signature="175785:176424" ph="SELECT cd.`i... ${_DB_PREFIX_}customized_data" />
+            <marker date="1480087984000" expanded="true" signature="176810:177011" ph="SELECT `id_p... ${_DB_PREFIX_}customization" />
+            <marker date="1480087984000" expanded="true" signature="181707:181871" ph="SELECT `id_c... ${_DB_PREFIX_}customization_field" />
+            <marker date="1480087984000" expanded="true" signature="184679:184812" ph="INSERT INTO `${_DB_PREFIX_}customization_field`... " />
+            <marker date="1480087984000" expanded="true" signature="185337:185458" ph="INSERT INTO `${_DB_PREFIX_}customization_field_lang`... " />
+            <marker date="1480087984000" expanded="true" signature="186896:187115" ph="INSERT INTO `${_DB_PREFIX_}customization_field_lang`... " />
+            <marker date="1480087984000" expanded="true" signature="187116:187152" ph="UPDATE `name... " />
+            <marker date="1480087984000" expanded="true" signature="187309:187501" ph="INSERT INTO `${_DB_PREFIX_}customization_field_lang`... " />
+            <marker date="1480087984000" expanded="true" signature="187502:187538" ph="UPDATE `name... " />
+            <marker date="1480087984000" expanded="true" signature="188724:189131" ph="SELECT cf.`i... ${_DB_PREFIX_}customization_field" />
+            <marker date="1480087984000" expanded="true" signature="189678:189799" ph="SELECT `id_c... ${_DB_PREFIX_}customization_field" />
+            <marker date="1480087984000" expanded="true" signature="190266:190409" ph="SELECT `id_c... ${_DB_PREFIX_}customization_field" />
+            <marker date="1480087984000" expanded="true" signature="191838:191959" ph="SELECT id_pr... ${_DB_PREFIX_}category_product" />
+            <marker date="1480087984000" expanded="true" signature="193147:193378" ph="SELECT ctg.`... ${_DB_PREFIX_}category_product" />
+            <marker date="1480087984000" expanded="true" signature="193516:193834" ph="SELECT cg.`i... ${_DB_PREFIX_}category_product" />
+            <marker date="1480087984000" expanded="true" signature="195398:196391" ph="SELECT sm.id... ${_DB_PREFIX_}stock_mvt" />
+            <marker date="1480087984000" expanded="true" signature="196543:197152" ph="SELECT pl.`i... ${_DB_PREFIX_}product" />
+            <marker date="1480087984000" expanded="true" signature="197650:197781" ph="SELECT `id_t... ${_DB_PREFIX_}product_shop" />
+            <marker date="1480087984000" expanded="true" signature="199388:199457" ph="DELETE FROM " />
+            <marker date="1480087984000" expanded="true" signature="200484:200711" ph="SELECT cp.`i... ${_DB_PREFIX_}category_product" />
+            <marker date="1480087984000" expanded="true" signature="201483:201583" ph="INSERT INTO `${_DB_PREFIX_}category_product`... " />
+            <marker date="1480087984000" expanded="true" signature="202109:202324" ph="SELECT p.`id... ${_DB_PREFIX_}accessory" />
+            <marker date="1480087984000" expanded="true" signature="202712:202838" ph="INSERT INTO `${_DB_PREFIX_}accessory`... " />
+            <marker date="1480087984000" expanded="true" signature="203109:203279" ph="SELECT pa.`i... ${_DB_PREFIX_}product_attribute" />
+            <marker date="1480087984000" expanded="true" signature="203797:203967" ph="SELECT pa.`i... ${_DB_PREFIX_}product_attribute" />
+            <marker date="1480087984000" expanded="true" signature="204210:204292" ph="SELECT pa.`i... ${_DB_PREFIX_}product_attribute" />
+            <marker date="1480087984000" expanded="true" signature="205391:205475" ph="INSERT INTO `${_DB_PREFIX_}product_attribute`... " />
+            <marker date="1480087984000" expanded="true" signature="205756:206044" ph="SELECT DISTI... ${_DB_PREFIX_}product_attribute" />
+            <marker date="1480087984000" expanded="true" signature="206297:206434" ph="SELECT posit... ${_DB_PREFIX_}category_product" />
+            <marker date="1480087984000" expanded="true" signature="206981:207126" ph="SELECT `id_p... ${_DB_PREFIX_}category_product" />
+            <marker date="1480087984000" expanded="true" signature="209179:209348" ph="SELECT i.`id... ${_DB_PREFIX_}image" />
+            <marker date="1480087984000" expanded="true" signature="209452:209592" ph="SELECT `id_s... ${_DB_PREFIX_}stock_available" />
+            <marker date="1480087984000" expanded="true" signature="209740:209821" ph="SELECT `id_t... ${_DB_PREFIX_}product_tag" />
+            <marker date="1480087984000" expanded="true" signature="210383:210441" ph="SELECT `id_l... ${_DB_PREFIX_}tag" />
+            <marker date="1480087984000" expanded="true" signature="210625:210714" ph="INSERT INTO `${_DB_PREFIX_}product_tag`... " />
+            <marker date="1480087984000" expanded="true" signature="211746:211843" ph="SELECT `refe... ${_DB_PREFIX_}product" />
+            <marker date="1480087984000" expanded="true" signature="212213:212398" ph="SELECT pa.id... ${_DB_PREFIX_}product_attribute" />
+            <marker date="1480087984000" expanded="true" signature="213218:213896" ph="SELECT DISTI... ${_DB_PREFIX_}attribute" />
+            <marker date="1480087984000" expanded="true" signature="214213:214628" ph="SELECT a.`id... ${_DB_PREFIX_}layered_indexable_attribute_group_lang_value" />
+            <marker date="1480087984000" expanded="true" signature="214742:215088" ph="SELECT g.`id... ${_DB_PREFIX_}attribute_group_lang" />
+            <marker date="1480087984000" expanded="true" signature="215271:216160" ph="SELECT DISTI... ${_DB_PREFIX_}attribute" />
+            <marker date="1480087984000" expanded="true" signature="216352:217178" ph="SELECT a.`id... ${_DB_PREFIX_}attribute" />
+            <marker date="1480087984000" expanded="true" signature="217770:218423" ph="SELECT DISTI... ${_DB_PREFIX_}attribute" />
+            <marker date="1480087984000" expanded="true" signature="218730:219154" ph="SELECT g.`id... ${_DB_PREFIX_}layered_indexable_attribute_group_lang_value" />
+            <marker date="1480087984000" expanded="true" signature="219268:219641" ph="SELECT g.`id... ${_DB_PREFIX_}attribute_group_lang" />
+            <marker date="1480087984000" expanded="true" signature="219824:220768" ph="SELECT DISTI... ${_DB_PREFIX_}attribute" />
+            <marker date="1480087984000" expanded="true" signature="220921:221775" ph="SELECT DISTI... ${_DB_PREFIX_}attribute" />
+            <marker date="1480087984000" expanded="true" signature="221882:222724" ph="SELECT DISTI... ${_DB_PREFIX_}attribute" />
+            <marker date="1480087984000" expanded="true" signature="229906:230001" ph="SELECT `adva... ${_DB_PREFIX_}" />
+            <marker date="1480087984000" expanded="true" signature="230873:231023" ph="SELECT produ... ${_DB_PREFIX_}product" />
+            <marker date="1480087984000" expanded="true" signature="231354:231433" ph="SELECT `id_s... ${_DB_PREFIX_}product_shop" />
+            <marker date="1480087984000" expanded="true" signature="233327:233548" ph="SELECT pa.id... ${_DB_PREFIX_}product_attribute" />
+            <marker date="1480087984000" expanded="true" signature="233695:234130" ph="SELECT id_ta... COUNT" />
+            <marker date="1480087984000" expanded="true" signature="233739:234113" ph="SELECT COUNT... ${_DB_PREFIX_}" />
+            <marker date="1480087984000" expanded="true" signature="235665:235753" ph="SELECT id_pr... ${_DB_PREFIX_}" />
+            <marker date="1480087984000" expanded="true" signature="236948:237708" ph="SELECT sa.id... ${_DB_PREFIX_}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controllers/front/ProductController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="64">
+          <caret line="558" column="7" lean-forward="false" selection-start-line="558" selection-start-column="7" selection-end-line="558" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/classes/stock/StockAvailable.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="175" column="32" lean-forward="true" selection-start-line="175" selection-start-column="32" selection-end-line="175" selection-end-column="32" />
+          <folding>
+            <marker date="1480087984000" expanded="true" signature="18984:19138" ph="SELECT SUM(q... ${_DB_PREFIX_}" />
+            <marker date="1480087984000" expanded="true" signature="24028:24271" ph="SELECT COUNT... ${_DB_PREFIX_}" />
+            <marker date="1480087984000" expanded="true" signature="24399:24463" ph="DELETE FROM " />
+            <marker date="1480087984000" expanded="true" signature="31691:32083" ph="INSERT INTO ${_DB_PREFIX_}stock_available... " />
+            <marker date="1480087984000" expanded="true" signature="31880:32048" ph="SELECT id_pr... ${_DB_PREFIX_}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

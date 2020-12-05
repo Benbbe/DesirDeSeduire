@@ -1,0 +1,38 @@
+#stores{
+    #map{
+        height: 450px;
+        margin-bottom: 25px;
+        width: 100%;
+    }
+    .store-content-select{
+        display: none;
+    }
+    #stores-table{
+        display: none;
+    }
+}
+#stores_loader{
+    display: none;
+}
+.store-content{
+    position: relative;
+}
+#stores-table{
+    &>tbody{
+        &>tr{
+            &.empty{
+                display: none;
+            }
+            &>td{
+                text-align: left;
+                vertical-align: middle;
+                padding: 8px;
+                &.store{
+                    img{
+                        margin-right: 15px;
+                    }
+                }
+            }
+        }
+    }
+}

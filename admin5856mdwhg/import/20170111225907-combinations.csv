@@ -1,0 +1,2 @@
+ProductID*;Attribute(Name:Type:Position)*;Value(Value:Position)*;Supplierreference;Reference;EAN13;UPC;Wholesaleprice;Quantity;Minimalquantity;Impactonweight;Dependsonstock
+14;Taille:taille:0,Color:color:1;Taille:TU-34/40,Couleur:Noir;FDG0166BLKOS;FDG0166;;876802202306,00;5.56;15;0;0;1
